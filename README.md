@@ -30,7 +30,7 @@ Project v1
 
        - Styling has been added for active states (section and navigation)
 
-    HTML Structure
+    HTML Structure:
 
       - There are 4 sections that have been added to the page.
 
@@ -42,7 +42,7 @@ Project v1
 
     Section active state:
 
-        - While scrolling through the page I add animation and change section's background and highlight corresponding item in the navigation bar
+        - When section is active I change background and highlight item in the navigation bar
 
     Scroll to Anchor:
 

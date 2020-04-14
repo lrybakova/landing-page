@@ -2,12 +2,10 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* HTML file - static version of Landing page
+* CSS file - styles
+* JS file - scrypt for dynamic navigation and UX improvement
 
-## Instructions
+## Descrition
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+The project is an example of adaptive web-page with dynamically built navigation. When new section is added the navigation bar is being populated with new item. Each menu item has an anchor link to the section at the page and when being clicked scrolls page smoothly towards the appropriate section. When section get close to screen's top it is being highlighted with different background and animations. Also, dedicated menu item is being highlighted when corresponding section is shown in viewport, both, after click or when user scrolls the page. It helps to understand which section is being viewed. Functionality works and looks good both on PC and mobile screens. Done without any frameworks. 

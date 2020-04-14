@@ -17,6 +17,7 @@ Project v1
 * Interface &Architecture
 
     Architecture:
+
         - structure is like requested
         - home page renders when index.html is opened
         - no errors in console
@@ -41,7 +42,7 @@ Project v1
 
     Section active state:
 
-        - In order to make it clear which section is being viewed while scrolling throught the page I add animation and change section's background and highlight corresponding item in the navigation bar
+        - While scrolling through the page I add animation and change section's background and highlight corresponding item in the navigation bar
 
     Scroll to Anchor:
 
